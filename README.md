@@ -5,6 +5,4 @@
 </p>
  <p align="center">
 
-<img width="1280" height="1230" alt="image" src="https://github.com/user-attachments/assets/492cb006-9a7e-46dc-9106-97c75f07af74" />
-
     
